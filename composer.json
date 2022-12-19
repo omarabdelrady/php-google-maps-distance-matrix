@@ -1,5 +1,5 @@
 {
-  "name": "teampickr/php-google-maps-distance-matrix",
+  "name": "omarabdelrady/php-google-maps-distance-matrix",
   "description": "PHP Implementation of the Google Maps Distance Matrix API",
   "type": "library",
   "license": "MIT",
